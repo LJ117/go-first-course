@@ -1,2 +1,2 @@
 # go-first-course
-The learn note 偶发
+The learn note of bigwhite's course
